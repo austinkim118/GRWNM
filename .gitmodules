@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/austinkim118/wake-up
+[submodule "wake-up"]
+	path = wake-up
+	url = https://github.com/austinkim118/wake-up
